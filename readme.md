@@ -28,3 +28,6 @@ Ex:mv oldname.txt newname.txt
 9. rm
 Removes or deletes a file.
 Ex:rm notes.txt
+10. cat
+Displays the contents of a file in the terminal.
+Ex:cat readme.md
