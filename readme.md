@@ -39,3 +39,6 @@ Git Commands
 11. git init
 Creates a new Git repository in the current folder.
 Ex:git init
+13. git add
+Stages a file so it is ready to be committed.
+Ex:git add readme.md
