@@ -10,4 +10,6 @@ Ex:ls -l
 3. cd
 Changes the current directory.
 Ex:cd Documentns
-
+4. pwd
+Prints the full path of the current working directory.
+Ex:pwd
