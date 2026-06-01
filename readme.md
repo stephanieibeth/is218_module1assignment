@@ -7,3 +7,7 @@ Ex:ls
 2. ls -l
 Lists files and folders in long format, showing details like permissions, owner, file size, and date modified.
 Ex:ls -l
+3. cd
+Changes the current directory.
+Ex:cd Documentns
+
