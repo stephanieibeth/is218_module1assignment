@@ -31,3 +31,7 @@ Ex:rm notes.txt
 10. cat
 Displays the contents of a file in the terminal.
 Ex:cat readme.md
+Git Commands
+11. git init
+Creates a new Git repository in the current folder.
+Ex:git init
