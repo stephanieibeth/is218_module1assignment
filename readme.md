@@ -25,3 +25,6 @@ Ex:cp notes.txt backup_notes.txt
 8. mv
 Moves or renames a file.
 Ex:mv oldname.txt newname.txt
+9. rm
+Removes or deletes a file.
+Ex:rm notes.txt
