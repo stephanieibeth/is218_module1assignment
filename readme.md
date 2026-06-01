@@ -48,4 +48,6 @@ Ex:git commit -m "Add command 'name'"
 15. git branch
 Lists, creates, or manages branches in a Git repository.
 Ex:git branch
-
+16. git push
+Uploads local commits from the computer to a remote GitHub repository.
+Ex:git push origin main
