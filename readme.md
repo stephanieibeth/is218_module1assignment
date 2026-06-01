@@ -19,3 +19,6 @@ Ex:mkdir new_folder
 6. touch
 Creates a new empty file.
 Ex:touch notes.txt
+7. cp
+Copies a file from one location to another.
+Ex:cp notes.txt backup_notes.txt
