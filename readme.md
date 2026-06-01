@@ -22,3 +22,6 @@ Ex:touch notes.txt
 7. cp
 Copies a file from one location to another.
 Ex:cp notes.txt backup_notes.txt
+8. mv
+Moves or renames a file.
+Ex:mv oldname.txt newname.txt
