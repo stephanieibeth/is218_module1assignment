@@ -45,3 +45,7 @@ Ex:git add readme.md
 14. git commit
 Saves staged changes to the Git history with a message.
 Ex:git commit -m "Add command 'name'"
+15. git branch
+Lists, creates, or manages branches in a Git repository.
+Ex:git branch
+
