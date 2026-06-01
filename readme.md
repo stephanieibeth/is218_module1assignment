@@ -16,3 +16,6 @@ Ex:pwd
 5. mkdir
 Creates a new directory or folder.
 Ex:mkdir new_folder
+6. touch
+Creates a new empty file.
+Ex:touch notes.txt
