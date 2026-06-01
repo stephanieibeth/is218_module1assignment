@@ -13,3 +13,6 @@ Ex:cd Documentns
 4. pwd
 Prints the full path of the current working directory.
 Ex:pwd
+5. mkdir
+Creates a new directory or folder.
+Ex:mkdir new_folder
