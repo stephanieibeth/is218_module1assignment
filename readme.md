@@ -42,3 +42,6 @@ Ex:git init
 13. git add
 Stages a file so it is ready to be committed.
 Ex:git add readme.md
+14. git commit
+Saves staged changes to the Git history with a message.
+Ex:git commit -m "Add command 'name'"
